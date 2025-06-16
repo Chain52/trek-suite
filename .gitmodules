@@ -1,0 +1,15 @@
+[submodule "trek-API"]
+	path = trek-API
+	url = https://github.com/Chain52/trek-API.git
+[submodule "trek-API-common"]
+	path = trek-API-common
+	url = https://github.com/Chain52/trek-API-common.git
+[submodule "trek-utils"]
+	path = trek-utils
+	url = https://github.com/Chain52/trek-utils.git
+[submodule "trek-community"]
+	path = trek-community
+	url = https://github.com/Chain52/trek-community.git
+[submodule "trek-passenger"]
+	path = trek-passenger
+	url = https://github.com/Chain52/trek-passenger.git
